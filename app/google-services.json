@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "476783081172",
+    "project_id": "uptodo-appsite",
+    "storage_bucket": "uptodo-appsite.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476783081172:android:bb0789db898d12c3782d41",
+        "android_client_info": {
+          "package_name": "io.github.dracula101.todo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "476783081172-a3niqrgp6u38hip0dq67dnkducv5ltsc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.github.dracula101.todo",
+            "certificate_hash": "c3b4d86cfaa2fdc185c7185650998d3cbf06f3c8"
+          }
+        },
+        {
+          "client_id": "476783081172-qepabch49j7bo1o51hsl5tnhpmp847id.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfyooVhmZP4y5W9k2VIpU5XD2TAQaGAvU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "476783081172-qepabch49j7bo1o51hsl5tnhpmp847id.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

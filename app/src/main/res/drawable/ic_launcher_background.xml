@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    app icon in the center and title text below it
+-->
+
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- The background color, preferably the same as your normal theme -->
+    <item android:drawable="@color/black" />
+
+    <!-- Your product logo - 144dp color version of your app icon -->
+    <item
+        android:drawable="@drawable/ic_launcher_foreground"
+        android:gravity="center" />
+</layer-list>
